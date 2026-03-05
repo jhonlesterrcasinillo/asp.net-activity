@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lester")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49efaa105d75cbeacd12ab7d5465c3253f7b7ec3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lester")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lester")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

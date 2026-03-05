@@ -83,3 +83,4 @@ C:\Users\basco\OneDrive\Documents\Lester\obj\Debug\net10.0\refint\Lester.dll
 C:\Users\basco\OneDrive\Documents\Lester\obj\Debug\net10.0\Lester.pdb
 C:\Users\basco\OneDrive\Documents\Lester\obj\Debug\net10.0\Lester.genruntimeconfig.cache
 C:\Users\basco\OneDrive\Documents\Lester\obj\Debug\net10.0\ref\Lester.dll
+C:\Users\basco\OneDrive\Documents\Lester\obj\Debug\net10.0\Lester.sourcelink.json
